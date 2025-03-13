@@ -15,9 +15,9 @@
 
 
 ## ⚡ About Me
-- 🎨 **Frontend Focused:** Love crafting interactive, sleek, and modern UI.
-- 🛠️ **Backend Supported:** Use various tools to handle backend needs.
-- 💡 **Full-Stack Ready:** Skilled in both frontend and backend development.
+- **Frontend Focused:** Love crafting interactive, sleek, and modern UI.
+- **Backend Supported:** Use various tools to handle backend needs.
+- **Full-Stack Ready:** Skilled in both frontend and backend development.
 
 ## 🔥 My Skills 
 
