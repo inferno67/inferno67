@@ -41,9 +41,9 @@
 
 ### 🔗 Connect with Me  
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fnVxMFypBx)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aJsZen66jH)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=blazinghawtinferno@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Firefox&logoColor=white)](https://yourwebsite.com)
+
 
 </div>
 
