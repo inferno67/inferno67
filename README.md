@@ -13,8 +13,8 @@
 
 
 ## ⚡ About Me
-  I live where Physics and Mathematics meet.
-  Code is just another way i write them.
+- I live where Physics and Mathematics meet.
+- Code is just another way i write them.
 
 ## 🔥 My Skills 
 
