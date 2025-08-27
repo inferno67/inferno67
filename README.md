@@ -44,8 +44,12 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aJsZen66jH)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=blazinghawtinferno@gmail.com)
 
-### 🟢 Discord Status
-![Discord Presence](https://lanyard.cnrad.dev/api/1322116522155577374)
+### 🟢 Discord Status  
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/USER_ID?theme=dark&bg=282a36&animated=true&hideDiscrim=true&borderRadius=20px)](https://discord.com/users/1322116522155577374)
+
+
+
 
 </div>
 
