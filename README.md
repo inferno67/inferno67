@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Inferno 🔥</h1>
+<h1 align="center">What's up, I'm Inferno👋🏻</h1>
 
 <p align="center">
-  <b>- Frontend Developer 🚀</b> <br>
-  <b>- Full-Stack Enthusiast 💻</b> <br>
-  <b>- Passionate about UI/UX & Web Technologies</b>
+  <b>-Equations, proofs, and commits — my constants. </b> <br>
 </p>
 
 <p align="center">
