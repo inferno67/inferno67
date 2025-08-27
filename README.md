@@ -18,8 +18,7 @@
 
 ## 🔥 My Skills 
 
-<p align="center">
- Skills  
+<p align="center"> 
 
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
