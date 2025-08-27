@@ -1,7 +1,7 @@
 <h1 align="center">What's up, I'm Inferno👋🏻</h1>
 
 <p align="center">
-  <b>Equations, proofs, and commits — my constants. </b> <br>
+  <b>Equations, proofs, and commits are my constants. </b> <br>
 </p>
 
 <p align="center">
