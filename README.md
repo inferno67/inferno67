@@ -13,9 +13,8 @@
 
 
 ## ⚡ About Me
-- **Frontend Focused:** Love crafting interactive, sleek, and modern UI.
-- **Backend Supported:** Use various tools to handle backend needs.
-- **Full-Stack Ready:** Skilled in both frontend and backend development.
+  I live where Physics and Mathematics meet.
+  Code is just another way i write them.
 
 ## 🔥 My Skills 
 
