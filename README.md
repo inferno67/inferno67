@@ -33,9 +33,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inferno67e&show_icons=true&theme=github_dark&count_private=true" alt="Inferno's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inferno67&show_icons=true&theme=github_dark&count_private=true" alt="Inferno's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inferno67e&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inferno67&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
 
 
