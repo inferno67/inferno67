@@ -33,6 +33,12 @@
 ## 📊 GitHub Stats
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=inferno67&show_icons=true&theme=dark" />
+  ## 📊 GitHub Stats
+
+![Inferno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inferno67&show_icons=true&theme=github_dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inferno67e&layout=compact&theme=github_dark)
+
 </p>
 
 <div align="center">
