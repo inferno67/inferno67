@@ -31,15 +31,14 @@
 </p>
 
 
-## 📊 GitHub Stats
-  
-<p align="center">
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Inferno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inferno67&show_icons=true&theme=github_dark&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inferno67e&show_icons=true&theme=github_dark&count_private=true" alt="Inferno's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inferno67e&layout=compact&theme=github_dark" alt="Top Languages" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inferno67e&layout=compact&theme=github_dark)
-
-</p>
 
 <div align="center">
 
