@@ -31,11 +31,9 @@
 </p>
 
 
-
-
-  ## 📊 GitHub Stats
+## 📊 GitHub Stats
   
-  <p align="center">
+<p align="center">
 
 ![Inferno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inferno67&show_icons=true&theme=github_dark&count_private=true)
 
