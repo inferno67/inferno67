@@ -30,10 +30,12 @@
 
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=inferno67&show_icons=true&theme=dark" />
+
+
+
   ## 📊 GitHub Stats
+  
+  <p align="center">
 
 ![Inferno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inferno67&show_icons=true&theme=github_dark&count_private=true)
 
